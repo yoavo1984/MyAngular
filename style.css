@@ -1,0 +1,13 @@
+.data {
+    transition: background-color 1s, border 1s;
+    background-color: lightgrey;
+    margin : 10px;
+    height : 100px;
+    border: 1px transparent;
+
+}
+
+.data:hover {
+    background-color: darkgray;
+    border: 1px solid black ;
+}
